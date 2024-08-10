@@ -43,5 +43,3 @@ The Car Booking System application will launch, and you can start managing your 
 We welcome contributions to improve the Car Booking System project! If you have suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
 ---
-
-Feel free to adjust this template to suit any specific details about your Car Booking System project, such as additional features or technical requirements. If there are any unique functionalities or integrations, be sure to highlight them in the README!
